@@ -30,7 +30,6 @@ A reinforcement learning implementation of Pong, using Python and Pygame. The pr
 - `requirements.txt`: Python dependencies.
 - `README.md`: Project documentation.
 
-## Author
-This project was completed as part of my master's course project.
+## Output
 
-
+![Game Output](play.gif)
