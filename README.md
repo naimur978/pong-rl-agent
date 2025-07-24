@@ -2,6 +2,9 @@
 
 
 # Reinforcement Learning Pong Game (Course Project)
+## Objective
+
+This project is all about teaching an AI to play Pong using reinforcement learning. The goal is to get the agent to learn and get better at the game by itself, using Q-learning. It’s a fun way to see how machine learning can actually play games and improve over time!
 
 This project was completed as part of my course requirements during my master's program.
 
